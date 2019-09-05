@@ -25,7 +25,7 @@ Agile Team Camp 2019
 * member: 畑野、うしりす、フラニャン、イトウ、クロちゃん
 * notes: やっぱ肉だわぁ
 
-## Zer0　"カロリー自販機"
+## Zer0　"ヘルシー自販機"
 * description: カロリーを気にしている方向けの販売物のカロリーがわかる自販機です。
 * source: https://github.com/TAKUMI-TAKAMATU/calorie
 * member: 高松、高角、西原、浅松、宮城
