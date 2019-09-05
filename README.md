@@ -21,6 +21,6 @@ Agile Team Camp 2019
 * notes: 広告主募集!
 ## イマギレ7　"Quest Vender ver1.7"
 * description: ボードゲームプレイヤー向けの縛りルール提供サービスです。
-* source: 更新中
+* source: https://github.com/p156/QuestVendor
 * member: 畑野、うしりす、フラニャン、イトウ、クロちゃん
-* notes: やっぱ肉だわ
+* notes: やっぱ肉だわぁ
