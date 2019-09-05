@@ -19,3 +19,9 @@ Agile Team Camp 2019
 * source: https://github.com/umahara555/enpit2019_er_hakone.git
 * members: うま, そと, ハルキ, Mine, John
 * notes: 広告主募集!
+
+## じぃ "快活ボックス"
+* description: 暑い日寒い日に自分で快適な温度を選べる個室空間自販機です。
+* source: https://github.com/Yamakatsu63/AirConditionerVendingMachine
+* members: https://github.com/tyanio, https://github.com/Yamakatsu63, https://github.com/NishidaYujiro, https://github.com/playingmiss
+* notes: Unity頑張りました
