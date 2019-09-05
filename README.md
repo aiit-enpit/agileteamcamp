@@ -19,3 +19,9 @@ Agile Team Camp 2019
 * source: https://github.com/umahara555/enpit2019_er_hakone.git
 * members: うま, そと, ハルキ, Mine, John
 * notes: 広告主募集!
+
+## PiPi "Cosmetiiiiics"
+* description: 旅行者向け自動販売機。化粧品をもってきたくない旅行者むけのサービス
+* source: https://github.com/
+* members: れん, かがり, まゆ, ももか, ゆいり
+* notes:　欲しい化粧品募集中！
