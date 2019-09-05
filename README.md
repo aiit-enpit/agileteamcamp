@@ -24,3 +24,8 @@ Agile Team Camp 2019
 * source: https://github.com/p156/QuestVendor
 * member: 畑野、うしりす、フラニャン、イトウ、クロちゃん
 * notes: やっぱ肉だわぁ
+## MAXUV "ボドゲベンダー"
+* description: 旅行先で手軽にボードゲームを購入できるサービスです。
+* source: https://github.com/e175720/Vender
+* members: うえかず、まさみ、シライシ、ほげ、あやか
+* notes: 昨晩の犠牲者は...
