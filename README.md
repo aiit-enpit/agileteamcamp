@@ -25,3 +25,9 @@ Agile Team Camp 2019
 * source: https://github.com/
 * members: れん, かがり, まゆ, ももか, ゆいり
 * notes:　欲しい化粧品募集中！
+
+## イマギレ7　"Quest Vendor ver1.7"
+* description: ボードゲームプレイヤー向けの縛りルール提供サービスです。
+* source: https://github.com/p156/QuestVendor
+* member: 畑野、うしりす、フラニャン、イトウ、クロちゃん
+* notes: やっぱ肉だわぁ
