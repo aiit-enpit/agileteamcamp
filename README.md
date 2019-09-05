@@ -19,3 +19,8 @@ Agile Team Camp 2019
 * source: https://github.com/umahara555/enpit2019_er_hakone.git
 * members: うま, そと, ハルキ, Mine, John
 * notes: 広告主募集!
+## イマギレ7　"Quest Vender ver1.7"
+* description: ボードゲームプレイヤー向けの縛りルール提供サービスです。
+* source: 更新中
+* member: 畑野、うしりす、フラニャン、イトウ、クロちゃん
+* notes: やっぱ肉だわ
