@@ -48,5 +48,5 @@ Agile Team Camp 2019
 * description: 心が病んだ人のもとへ一遍の詩を届けるサービスです。
 * source: https://github.com/RyoyaMizukami/enPiT2019Mk3
 * members: https://github.com/atkoda, https://github.com/sket1130, https://github.com/KatsuyamaTakeshi
-*　　　　　 幸田、萱沼、勝山
+　   　　　 幸田、萱沼、勝山
 * notes: https://forms.gle/jYyuJFVaXsYTFZ5s7 でまだ募集しています。POのやる気次第で更新するかも。
