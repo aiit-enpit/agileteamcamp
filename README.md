@@ -30,13 +30,7 @@ Agile Team Camp 2019
 * description: ボードゲームプレイヤー向けの縛りルール提供サービスです。
 * source: https://github.com/p156/QuestVendor
 * member: 畑野、うしりす、フラニャン、イトウ、クロちゃん
-* notes: やっぱ肉だわぁ 
-
-## webstory "<ぶんくん>"
-* description: 文房具を販売するための自動販売機です。
-* source: https://github.com/Takuya12/enPiT_Vending_Machine
-* members: かほ 巣立 りょうが たくや しょーま
-* notes: おすすめ文房具募集中
+* notes: やっぱ肉だわぁ
 
 ## Zer0　"ヘルシー自販機"
 * description: カロリーを気にしている方向けの販売物のカロリーがわかる自販機です。
@@ -50,3 +44,9 @@ Agile Team Camp 2019
 * members: うえかず、まさみ、シライシ、ほげ、あやか
 * notes: 昨晩の犠牲者は...
 
+## Mk3 "ポエムベンダー"
+* description: 心が病んだ人のもとへ一遍の詩を届けるサービスです。
+* source: https://github.com/RyoyaMizukami/enPiT2019Mk3
+* members: https://github.com/atkoda, https://github.com/sket1130, https://github.com/KatsuyamaTakeshi
+*　　　　　 幸田、萱沼、勝山
+* notes: https://forms.gle/jYyuJFVaXsYTFZ5s7 でまだ募集しています。POのやる気次第で更新するかも。
